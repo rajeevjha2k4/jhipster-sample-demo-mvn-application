@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleDemoMvnApplication",
+    "packageName": "com.dbs.jhipster.demo.monolithapplication",
+    "packageFolder": "com/dbs/jhipster/demo/monolithapplication",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NmZiZTJlYTJkZTJlNTdmNzlmYjcwZTY3MTZjMDBmZWVmMWM0NjkwNTk1NzBlNTJmZGJmY2FhYWEyZTVjMDQ2Y2MzMTAwOWY1ZTQ5YmNlZThjZWUyNzBlOWIzNDM0ZjNlZTFlMTY1NmQyMTNiYmI0NWU0NDY1MDI1M2M5Y2YxMDk=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "rajeevjha2k4",
+  "repository-name": "jhipster-sample-demo-mvn-application"
+}
